@@ -1,0 +1,59 @@
+/*Fragment Styles*/
+
+.contact_frag {
+}
+
+.sidebar_frag {
+
+}
+
+.consent_frag {
+
+}
+
+.upload_frag {
+
+}
+
+.about_frag {
+
+}
+
+/* */
+
+body {
+     padding-top: 60px;
+     padding-bottom: 40px;
+}
+
+.content_pane {
+
+}
+
+.skip-fixed-sidebar {
+    margin-right: 260px;
+}
+
+.sidebar-nav-fixed {
+    background-color: #0000ff;	
+    position: fixed;
+    right: 10px;
+    top: 50px;
+    width: 200px;
+    height: 100%;
+}
+
+.content_pane h1 {
+    font-size: 36px;
+    margin-bottom: 4px;
+    line-height: 1;
+    letter-spacing: -1px;
+    color: #FF6600;
+}
+
+.expr_block {
+    border: 2px solid #CCCCCC;
+    border-radius: 10px;
+    margin: 5px 0 5px 0;
+    padding: 0px 10px 0px 10px;
+}

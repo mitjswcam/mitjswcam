@@ -1,0 +1,15 @@
+{
+    "name"    : "Baby Webcam",
+    "id"      : "baby_webcam_test", 
+    "date"    : "11/11/11",
+    "desc"    : "my bescription",
+    "img"     : null,
+    "path"    : "ex/ex01/",    
+    "scripts" : [
+        "experiment01.js"
+    ],
+    "css"  : [
+        "experiment01.css",
+	"experiment02.css"
+    ]
+}
